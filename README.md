@@ -1,4 +1,4 @@
-# [THIS IS A FORK. ORIGINAL: https://github.com/brndd/dvorakfi](https://github.com/brndd/dvorakfi)
+# [THIS REPO IS A FORK. ORIGINAL: https://github.com/brndd/dvorakfi](https://github.com/brndd/dvorakfi)
 
 # Finnish Dvorak keyboard layout
 
