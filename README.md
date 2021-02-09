@@ -12,3 +12,9 @@ Just make a PR
 
 ## Questions / problems
 Make an Github issue
+
+## Installaition
+TBW...
+
+put backspace to caps
+´hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x700000039,"HIDKeyboardModifierMappingDst":0x70000002A}]}'´
