@@ -17,4 +17,4 @@ Make an Github issue
 TBW...
 
 put backspace to caps
-´hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x700000039,"HIDKeyboardModifierMappingDst":0x70000002A}]}'´
+Add backspacetocapslock.app to your startup items
